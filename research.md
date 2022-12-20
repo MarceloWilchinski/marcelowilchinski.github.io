@@ -21,6 +21,6 @@ nueva agenda de la economía internacional y su impacto geoestratégico en la po
 
 CONFERENCE PRESENTATIONS
 
-+ Presentation: La batalla virtual por la memoria: Análisis de las memorias en disputa
++ La batalla virtual por la memoria: Análisis de las memorias en disputa
 en torno a la Marcha del Silencio del 2020. With Federico Acosta y Lara. 
 VII - Congreso Uruguayo de Ciencia Política 2021.
