@@ -10,8 +10,8 @@ PEER-REVIEWED ARTICLES
 
 El estado de emergencia sanitaria decretado por la pandemia de COVID-19, obligó a que la Marcha del Silencio, una de las marchas tradicionales más multitudinarias del Uruguay, se trasladase por completo al ámbito virtual. En este inédito contexto, el presente artículo innova en el campo de los estudios de memoria pública al utilizar un análisis cuantitativo de la actividad en Twitter para analizar la batalla de memorias sobre el pasado reciente uruguayo. En línea con la literatura existente, se prueba la existencia de al menos dos memorias confrontadas, una predominante, que tiene al terrorismo de Estado como su concepto principal y con fuertes vínculos con la izquierda política, y otra memoria alternativa, que se articula según la ‘teoría de los dos demonios’. Para cada una de estas memorias se caracterizan los actores más relevantes y sus vínculos incluyendo la participación de los partidos políticos, legisladores y ministros.
 
-![](https://octodex.github.com/images/marcha1.png)
-![](https://octodex.github.com/images/marcha2.png)
+![](https://github.com/MarceloWilchinski/marcelowilchinski.github.io/blob/master/images/marcha1.jpg?raw=true)
+![](https://github.com/MarceloWilchinski/marcelowilchinski.github.io/blob/master/images/marcha2.jpg?raw=true)
 
 + Telias, D., and Wilchinski, M. (2023). Las donaciones de China hacia América Latina y sus determinantes: Enseñanzas del caso uruguayo. Revista Uruguaya de Ciencia
 Política. Forthcoming.
