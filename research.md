@@ -16,7 +16,7 @@ Política. Forthcoming.
 BOOK CHAPTERS
 
 Pose, N. and Wilchinski, M. (2021). Pasado, presente y ¿futuro? El acuerdo de asociación Unión Europea – Mercosur y la cuestión ambiental. En Martínez, I. (ed.) La
-nueva agenda de la economía internacional y su impacto geoestratégico en la política internacional. Ciudad de México: UNAM. Forthcoming.
+nueva agenda de la economía internacional y su impacto geoestratégico en la política internacional. Ciudad de México: UNAM. In edition.
 
 Moraes, J., Acosta y Lara, F., Martínez, G. and Wilchinski, M. (2021). ”We are fantastic”: Are We?. En Moraes, J. y Pérez, V. (ed.) De la estabilidad al equilibrio inestable: elecciones y comportamiento electoral en Uruguay, 2019 . Montevideo: UdelaR.
 
