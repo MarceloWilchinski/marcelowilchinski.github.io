@@ -7,8 +7,8 @@ My name is Marcelo Wilchinski and I am a poltical scientist currently pursuing m
 
 My main research interests lie in the intersection between Political Geography, Historical Political Economy, and political regimes with a regional focus on Latin America. Also, I have strong methodological interests in causal inference, spatial econometrics, and quantitative, experimental and quasi-experimental methods. Particularly, I am interested in asking the question: how do economic and political geography shape political regimes? To answer this, I study the long-run effects of the interplay between economic and political geography and international influences on political regime types, primarily, but not entirely, through the state formation and state-building processes.
 
-## Current Interests and Projects:
+## Research Interests:                   
 
-- Website Design
-- [GitHub Pages](http://laderast.github.io)
-- Academia
+- Political Regimes
+- Political Geography
+- Historical Political Economy
