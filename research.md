@@ -2,9 +2,7 @@
 layout: page
 title: Research
 ---
-
-
-PUBLICATIONS 
+ 
 
 PEER-REVIEWED ARTICLES
 
