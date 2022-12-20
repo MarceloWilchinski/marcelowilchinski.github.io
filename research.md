@@ -6,7 +6,7 @@ title: Research
 
 PEER-REVIEWED ARTICLES
 
-+ Acosta y Lara, F. y Wilchinski, M. (2023). La batalla virtual por la memoria: un análisis de las memorias en disputa durante la Marcha del Silencio del 2020 en Twitter en Uruguay. Teknokultura. Revista de Cultura Digital y Movimientos Sociales. Forthcoming.
++ Acosta y Lara, F. and Wilchinski, M. (2023). La batalla virtual por la memoria: un análisis de las memorias en disputa durante la Marcha del Silencio del 2020 en Twitter en Uruguay. Teknokultura. Revista de Cultura Digital y Movimientos Sociales. Forthcoming.
 
 + Telias, D., and Wilchinski, M. (2023). Las donaciones de China hacia América Latina y sus determinantes: Enseñanzas del caso uruguayo. Revista Uruguaya de Ciencia
 Política. Forthcoming.
