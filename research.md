@@ -1,4 +1,7 @@
 ---
+layout: page
 title: Research
-  url: /research/
 ---
+
+title: Reserach
+  url: /research/
