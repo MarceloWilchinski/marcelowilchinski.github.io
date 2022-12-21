@@ -4,9 +4,8 @@ title:
 ---
 **La batalla virtual por la memoria: un análisis de las memorias en disputa durante la Marcha del Silencio del 2020 en Twitter en Uruguay.**
 
-Acosta y Lara, F. and Wilchinski, M. (2023). 
-
-Teknokultura. Revista de Cultura Digital y Movimientos Sociales. Forthcoming.
+Acosta y Lara, F. and Wilchinski, M. (Forthcoming 2023). 
+*Teknokultura. Revista de Cultura Digital y Movimientos Sociales*.
 
 **Resumen:** El estado de emergencia sanitaria decretado por la pandemia de COVID-19, obligó a que la Marcha del Silencio, una de las marchas tradicionales más multitudinarias del Uruguay, se trasladase por completo al ámbito virtual. En este inédito contexto, el presente artículo innova en el campo de los estudios de memoria pública al utilizar un análisis cuantitativo de la actividad en Twitter para analizar la batalla de memorias sobre el pasado reciente uruguayo. En línea con la literatura existente, se prueba la existencia de al menos dos memorias confrontadas, una predominante, que tiene al terrorismo de Estado como su concepto principal y con fuertes vínculos con la izquierda política, y otra memoria alternativa, que se articula según la ‘teoría de los dos demonios’. Para cada una de estas memorias se caracterizan los actores más relevantes y sus vínculos incluyendo la participación de los partidos políticos, legisladores y ministros.
 
