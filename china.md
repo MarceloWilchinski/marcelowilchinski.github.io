@@ -17,4 +17,5 @@ Telias, D., and Wilchinski, M. (Forthcoming 2023).
 
 Donaciones chinas a países sudamericanos en dólares per cápita
 ![](https://github.com/MarceloWilchinski/marcelowilchinski.github.io/blob/master/images/china1.jpg?raw=true)
+Donaciones chinas en dólares por departamento
 ![](https://github.com/MarceloWilchinski/marcelowilchinski.github.io/blob/master/images/china2.jpg?raw=true)
