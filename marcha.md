@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: Journal Article
 ---
 **La batalla virtual por la memoria: un análisis de las memorias en disputa durante la Marcha del Silencio del 2020 en Twitter en Uruguay.**
 
