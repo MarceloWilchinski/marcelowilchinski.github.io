@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Journal Article
 ---
 
 **Las donaciones de China hacia América Latina y sus determinantes: Enseñanzas del caso uruguayo.**
