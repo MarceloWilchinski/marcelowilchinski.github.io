@@ -13,5 +13,3 @@ Evolución de la inclusión de temas no comerciales en acuerdos de comercio
 
 Asuntos ambientales tratados en cuatro ACPs de referencia mundial
 ![](https://github.com/MarceloWilchinski/marcelowilchinski.github.io/blob/master/images/MercosurUE2.jpg?raw=true)
-No se incluye en el análisis el acuerdo ambiental paralelo que los mismos países firmaron en 2018. 
-Fuente: Elaboración propia en base a texto de capítulos ambientales de los acuerdos disponibles.
