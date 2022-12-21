@@ -12,14 +12,6 @@ PEER-REVIEWED ARTICLES
 
 BOOK CHAPTERS
 
-+ Pose, N. and Wilchinski, M. (2021). Pasado, presente y ¿futuro? El acuerdo de asociación Unión Europea – Mercosur y la cuestión ambiental. En Martínez, I. (ed.) La
-nueva agenda de la economía internacional y su impacto geoestratégico en la política internacional. Ciudad de México: UNAM. In edition.
++ Pose, N. and Wilchinski, M. (2021). [Pasado, presente y ¿futuro? El acuerdo de asociación Unión Europea – Mercosur y la cuestión ambiental](https://marcelowilchinski.github.io/MercosurUE/). En Martínez, I. (ed.) *La nueva agenda de la economía internacional y su impacto geoestratégico en la política internacional*. Ciudad de México: UNAM. In edition.
 
-+ Moraes, J., Acosta y Lara, F., Martínez, G. and Wilchinski, M. (2021). ”We are fantastic”: Are We?. En Moraes, J. y Pérez, V. (ed.) De la estabilidad al equilibrio inestable: elecciones y comportamiento electoral en Uruguay, 2019 . Montevideo: UdelaR.
-
-
-CONFERENCE PRESENTATIONS
-
-+ La batalla virtual por la memoria: Análisis de las memorias en disputa
-en torno a la Marcha del Silencio del 2020. With Federico Acosta y Lara. 
-VII - Congreso Uruguayo de Ciencia Política 2021.
++ Moraes, J., Acosta y Lara, F., Martínez, G. and Wilchinski, M. (2021). [‟We are fantastic”: Are We?] (https://marcelowilchinski.github.io/fantastic/). En Moraes, J. y Pérez, V. (ed.) *De la estabilidad al equilibrio inestable: elecciones y comportamiento electoral en Uruguay, 2019*. Montevideo: UdelaR.
