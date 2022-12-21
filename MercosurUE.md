@@ -12,7 +12,7 @@ Evolución de la inclusión de temas no comerciales en acuerdos de comercio
 ![](https://github.com/MarceloWilchinski/marcelowilchinski.github.io/blob/master/images/MercosurUE1.jpg?raw=true)
 ![](https://github.com/MarceloWilchinski/marcelowilchinski.github.io/blob/master/images/MercosurUE2.jpg?raw=true)
 
-Asuntos ambientales tratados en cuatro ACPs de referencia mundial**
+Asuntos ambientales tratados en cuatro ACPs de referencia mundial
 
 |Clausulas o asuntos ambientales tratados en los acuerdos comerciales|UE-Mercosur|CETA|CP-TPP|T-MEC\*|
 | :-: | :-: | :-: | :-: | :-: |
@@ -40,4 +40,5 @@ Asuntos ambientales tratados en cuatro ACPs de referencia mundial**
 ||Alentar el comercio e inversión en bienes y servicios ambientales|P|P|P|P|
 ||Compromiso de cooperación en el contexto de la negociación ambiental bilateral, regional o multilateral|P|P|P|O|
 |Compromiso para la implementación efectiva del Acuerdo de París|P|O|O|O|
-\*No se incluye en el análisis el acuerdo ambiental paralelo que los mismos países firmaron en 2018. Fuente: Elaboración propia en base a texto de capítulos ambientales de los acuerdos disponibles
+\No se incluye en el análisis el acuerdo ambiental paralelo que los mismos países firmaron en 2018. 
+Fuente: Elaboración propia en base a texto de capítulos ambientales de los acuerdos disponibles
