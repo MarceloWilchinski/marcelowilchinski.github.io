@@ -8,7 +8,7 @@ PEER-REVIEWED ARTICLES
 
 + Acosta y Lara, F. and Wilchinski, M. (2023). [La batalla virtual por la memoria: un análisis de las memorias en disputa durante la Marcha del Silencio del 2020 en Twitter en Uruguay](https://marcelowilchinski.github.io/marcha/). Teknokultura. Revista de Cultura Digital y Movimientos Sociales. Forthcoming.
 
-+ Telias, D., and Wilchinski, M. (2023). [Las donaciones de China hacia América Latina y sus determinantes: Enseñanzas del caso uruguayo] (https://marcelowilchinski.github.io/china/). Revista Uruguaya de Ciencia Política. Forthcoming.
++ Telias, D., and Wilchinski, M. (2023). [Las donaciones de China hacia América Latina y sus determinantes: Enseñanzas del caso uruguayo](https://marcelowilchinski.github.io/china/). Revista Uruguaya de Ciencia Política. Forthcoming.
 
 BOOK CHAPTERS
 
