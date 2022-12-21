@@ -3,7 +3,7 @@ layout: page
 title: International Studies Diploma Thesis
 ---
 
-**Islas de democracia. Geografía, fronteras y regímenes militares** [PDF](https://marcelowilchinski.github.io/Tesis DPEI Marcelo Wilchinski.pdf)
+**Islas de democracia. Geografía, fronteras y regímenes militares** [PDF](https://marcelowilchinski.github.io/TesisDPEI.pdf)
 
 Wilchinski, M. (2022). 
 
