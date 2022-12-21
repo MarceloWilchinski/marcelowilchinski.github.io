@@ -5,9 +5,9 @@ title:
 
 **Las donaciones de China hacia América Latina y sus determinantes: Enseñanzas del caso uruguayo.**
 
-Telias, D., and Wilchinski, M. (2023). 
+Telias, D., and Wilchinski, M. (Forthcoming 2023). 
 
-Revista Uruguaya de Ciencia Política. Forthcoming.
+*Revista Uruguaya de Ciencia Política*.
 
 **Resumen:** La literatura que trata los determinantes de las donaciones chinas suele enfocarse puramente en aspectos estructurales. Este artículo estudia las donaciones chinas hacia América Latina en el contexto de pandemia Covid-19 y profundiza en el caso uruguayo buscando ampliar el alcance de esta literatura proponiendo nuevas hipótesis en la explicación del fenómeno. Apoyándose en el análisis tanto de datos cuantitativos como de entrevistas en profundidad realizadas a actores diplomáticos clave, el artículo propone que el rol de los cuerpos diplomáticos, las relaciones internacionales entre unidades subnacionales y aspectos coyunturales de imagen deben ser incorporados al análisis si se busca tener una noción más acabada del fenómeno.
 
