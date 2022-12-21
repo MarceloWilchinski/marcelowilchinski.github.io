@@ -2,9 +2,9 @@
 layout: page
 title: Journal Article
 ---
-**La batalla virtual por la memoria: un análisis de las memorias en disputa durante la Marcha del Silencio del 2020 en Twitter en Uruguay.**
+**La batalla virtual por la memoria: un análisis de las memorias en disputa durante la Marcha del Silencio del 2020 en Twitter en Uruguay.** [PDF](https://revistas.ucm.es/index.php/TEKN/article/view/82642)
 
-Acosta y Lara, F. and Wilchinski, M. (Forthcoming 2023). 
+Acosta y Lara, F. and Wilchinski, M. (2022). 
 
 *Teknokultura. Revista de Cultura Digital y Movimientos Sociales*.
 
