@@ -15,7 +15,7 @@ Telias, D., and Wilchinski, M. (Forthcoming 2023).
 
 **Abstract:** The literature dealing with the determinants of Chinese donations tends to focus purely on structural aspects. This article studies Chinese donations to Latin America in the context of the Covid-19 pandemic and delves into the Uruguayan case, seeking to broaden the scope of this literature by proposing new hypotheses to explain the phenomenon. Based on the analysis of both quantitative data and in-depth interviews with key diplomatic actors, it proposes that the role of diplomatic corps, international relations between subnational units and conjunctural aspects of image should be incorporated into the analysis if it is searched to have a more complete notion of the phenomenon.
 
-#Donaciones chinas a países sudamericanos en dólares per cápita#
+Donaciones chinas a países sudamericanos en dólares per cápita
 ![](https://github.com/MarceloWilchinski/marcelowilchinski.github.io/blob/master/images/china1.jpg?raw=true)
 
 Donaciones chinas en dólares por departamento
