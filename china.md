@@ -5,7 +5,7 @@ title: Journal Article
 
 **Las donaciones de China hacia América Latina y sus determinantes: Enseñanzas del caso uruguayo.**
 
-Telias, D., and Wilchinski, M. (Forthcoming 2023). 
+Telias, D., and Wilchinski, M. (2023). 
 
 *Revista Uruguaya de Ciencia Política*.
 
