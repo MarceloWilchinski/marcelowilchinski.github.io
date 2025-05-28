@@ -3,13 +3,12 @@ layout: page
 excerpt: "About Me..."
 ---
 
-My name is Marcelo Wilchinski and I am a Political Science Ph.D. student at the University of California San Diego (UCSD). I obtained my bachelor’s degree in Political Science at Universidad de la República (UdelaR, Uruguay) in 2020 and two postgraduate diplomas in Economics (2021) and International Studies (2022) at the same university. 
+My name is Marcelo Wilchinski, and I am a Ph.D. student in Political Science at the University of California, San Diego (UCSD). I earned my bachelor's degree in Political Science from the Universidad de la República (UdelaR, Uruguay) in 2020, followed by two postgraduate diplomas in Economics (2021) and International Studies (2022), also from UdelaR.
 
-My main research interests lie in the intersection between Political Geography, Historical Political Economy, and political regimes with a regional focus on Latin America. Also, I have strong methodological interests in causal inference, spatial econometrics, and quantitative, experimental and quasi-experimental methods. Particularly, I am interested in asking the question: how do economic and political geography shape political regimes? To answer this, I study the long-run effects of the interplay between economic and political geography and international influences on political regime types, primarily, but not entirely, through the state formation and state-building processes.
+My research interests lie at the intersection of Political Geography and Historical Political Economy, with a particular focus on the state formation processes in 19th-century Latin America.
 
 ## Research Interests:                   
 
-- Political Regimes
 - State Formation
 - State-Building
 - Political Geography
