@@ -3,9 +3,9 @@ layout: page
 title: Research
 ---
 
-## WORKING PAPERS
+WORKING PAPERS
 
-+ **The Resource Blessing. How Commodity Booms Ended Territorial Disputes in South America**
++ The Resource Blessing. How Commodity Booms Ended Territorial Disputes in South America
 
   <button onclick="toggleAbstract('abstract1')" style="margin:5px 0; padding:5px 10px; border-radius:6px; border:1px solid #444; background:#f2f2f2; cursor:pointer;">
     Abstract
