@@ -4,11 +4,14 @@ title: Research
 ---
 
 <style>
-.page-research .post-content {
-  max-width: 1200px;  /* wider content area */
-  margin: 0 auto;     /* keep centered */
+/* Apply only to this page */
+.research-content {
+  max-width: 1200px;   /* wider text area */
+  margin: 0 auto;      /* keep centered */
 }
 </style>
+
+<div class="research-content">
 
 ## Working Papers
 
@@ -40,8 +43,7 @@ title: Research
 + Wilchinski, M. (2020). [Evaluación de la política de protección de datos personales en la Administración Central de la República Oriental del Uruguay](https://marcelowilchinski.github.io/TesisLic/). Monografía final para la obtención de la Licenciatura en Ciencia Política. Facultad de Ciencias Sociales - UdelaR. Montevideo, Uruguay.
 -->
 
-
-
+</div>
 
 <script>
 function toggleAbstract(id) {
@@ -49,4 +51,3 @@ function toggleAbstract(id) {
   el.style.display = (el.style.display === "none") ? "block" : "none";
 }
 </script>
-
