@@ -3,12 +3,6 @@ layout: page
 title: Research
 ---
 
-
----
-layout: page
-title: Research
----
-
 ## WORKING PAPERS
 
 + **The Resource Blessing. How Commodity Booms Ended Territorial Disputes in South America**
