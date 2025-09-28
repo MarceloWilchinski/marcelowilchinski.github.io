@@ -7,11 +7,9 @@ WORKING PAPERS
 
 + The Resource Blessing. How Commodity Booms Ended Territorial Disputes in South America
 
-  <button onclick="toggleAbstract('abstract1')" style="margin:5px 0; padding:5px 10px; border-radius:6px; border:1px solid #444; background:#f2f2f2; cursor:pointer;">
-    Abstract
-  </button>
+    <a href="javascript:void(0)" onclick="toggleAbstract('abstract1')">Abstract</a>
 
-  <div id="abstract1" style="display:none; margin-top:10px;">
+  <div id="abstract1" style="display:none; margin-top:8px;">
   Many accounts characterize economic expansion in Latin America as a delayed process because of the protracted political turmoil following independence conflicts. In this paper, I argue that the political order that allowed business to thrive since the late 19th century was endogenous to economic opportunities triggered by the “first globalization” (1870–1914). Capital-intensive commodity booms significantly raised the opportunity cost of unresolved territorial disputes over territories rich in or highly suitable for these commodities. As large amounts of capital were needed to capitalize on these new economic opportunities, states faced mounting pressure to reach agreements over the establishment of stable borders, reducing the jurisdictional and policy uncertainties that unresolved territorial disputes implied for doing business in these regions. Empirically, the article examines how the Amazon Rubber Boom (1889-1912) accelerated the end of South American territorial disputes over territories highly suitable for the growth of para rubber. Survival analysis exploiting exogenous variation in land suitability for para rubber across disputed territories and rubber pricing across time supports the hypothesis that increases in rubber pricing accelerated the resolution of disputes over territories suitable for rubber and not over other disputed territories. The study aims to contribute to our understanding of the interplay between economic and political development, contributing specifically to the literature on state formation, territorial claims, and the resource curse.
   </div>
 
@@ -32,3 +30,15 @@ OTHER WORKS
 + Wilchinski, M. (2022). [Islas de democracia. Geografía, fronteras y regímenes militares](https://marcelowilchinski.github.io/DPEI/). Monografía final para la obtención del Diploma de Estudios Internacionales. Facultad de Ciencias Sociales - UdelaR. Montevideo, Uruguay. [English version](https://marcelowilchinski.github.io/DPEIen/).
 
 + Wilchinski, M. (2020). [Evaluación de la política de protección de datos personales en la Administración Central de la República Oriental del Uruguay](https://marcelowilchinski.github.io/TesisLic/). Monografía final para la obtención de la Licenciatura en Ciencia Política. Facultad de Ciencias Sociales - UdelaR. Montevideo, Uruguay.
+
+
+
+
+
+<script>
+function toggleAbstract(id) {
+  var el = document.getElementById(id);
+  el.style.display = (el.style.display === "none") ? "block" : "none";
+}
+</script>
+
