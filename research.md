@@ -3,15 +3,12 @@ layout: page
 title: Research
 ---
 
-<style>
-/* Apply only to this page */
-.research-content {
-  max-width: 1200px;   /* wider text area */
-  margin: 0 auto;      /* keep centered */
-}
+<style> 
+  .page-research .post-content { 
+    max-width: 1200px; /* wider content area */ 
+    margin: 0 auto; /* keep centered */ 
+  } 
 </style>
-
-<div class="research-content">
 
 ## Working Papers
 
@@ -45,9 +42,9 @@ title: Research
 
 </div>
 
-<script>
-function toggleAbstract(id) {
-  var el = document.getElementById(id);
-  el.style.display = (el.style.display === "none") ? "block" : "none";
-}
+<script> 
+  function toggleAbstract(id) { 
+    var el = document.getElementById(id); 
+    el.style.display = (el.style.display === "none") ? "block" : "none"; 
+  } 
 </script>
