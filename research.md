@@ -25,12 +25,13 @@ title: Research
 
 + Moraes, J., Acosta y Lara, F., Martínez, G. and Wilchinski, M. (2021). [‟We are fantastic”: Are We?](https://marcelowilchinski.github.io/fantastic/). En Moraes, J. y Pérez, V. (ed.) *[De la estabilidad al equilibrio inestable: elecciones y comportamiento electoral en Uruguay, 2019](http://isbn.bibna.gub.uy/catalogo.php?mode=detalle&nt=42860)*. Montevideo: UdelaR.
 
+<!--
 ## OTHER WORKS
 
 + Wilchinski, M. (2022). [Islas de democracia. Geografía, fronteras y regímenes militares](https://marcelowilchinski.github.io/DPEI/). Monografía final para la obtención del Diploma de Estudios Internacionales. Facultad de Ciencias Sociales - UdelaR. Montevideo, Uruguay. [English version](https://marcelowilchinski.github.io/DPEIen/).
 
 + Wilchinski, M. (2020). [Evaluación de la política de protección de datos personales en la Administración Central de la República Oriental del Uruguay](https://marcelowilchinski.github.io/TesisLic/). Monografía final para la obtención de la Licenciatura en Ciencia Política. Facultad de Ciencias Sociales - UdelaR. Montevideo, Uruguay.
-
+-->
 
 
 
