@@ -3,6 +3,13 @@ layout: page
 title: Research
 ---
 
+<style>
+.page-research .post-content {
+  max-width: 1200px;  /* wider content area */
+  margin: 0 auto;     /* keep centered */
+}
+</style>
+
 ## WORKING PAPERS
 
 + **The Resource Blessing. How Commodity Booms Ended Territorial Disputes in South America**
