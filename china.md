@@ -3,7 +3,7 @@ layout: page
 title: Journal Article
 ---
 
-**Las donaciones de China hacia América Latina y sus determinantes: Enseñanzas del caso uruguayo.**
+**Las donaciones de China hacia América Latina y sus determinantes: Enseñanzas del caso uruguayo.** [PDF](https://rucp.cienciassociales.edu.uy/index.php/rucp/article/view/590)
 
 Telias, D., and Wilchinski, M. (2023). 
 
