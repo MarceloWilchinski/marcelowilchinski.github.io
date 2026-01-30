@@ -10,6 +10,6 @@ title: CV
 <iframe 
   src="/CV.pdf"
   width="100%"
-  height="1100px"
+  height="300px"
   style="border: none;">
 </iframe>
