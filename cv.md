@@ -9,7 +9,7 @@ title: CV
 
 <iframe 
   src="/CV.pdf"
-  width="100%"
-  height="300px"
+  width="120%"
+  height="600px"
   style="border: none;">
 </iframe>
