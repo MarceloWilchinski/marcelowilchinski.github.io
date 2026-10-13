@@ -4,7 +4,7 @@ title: CV
 ---
 
 <p>
-<a href="/CV.pdf">Download PDF</a> (Last updated: May 2026)
+<a href="/CV.pdf">Download PDF</a> (Last updated: October 2026)
 </p>
 
 <iframe 
