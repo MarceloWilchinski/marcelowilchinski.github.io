@@ -34,7 +34,7 @@ title: Research
 
 + Telias, D., and Wilchinski, M. (2023). [Las donaciones de China hacia América Latina y sus determinantes: Enseñanzas del caso uruguayo](https://revistasfcs.edu.uy/index.php/rucp/es/article/view/115). *Revista Uruguaya de Ciencia Política*.
 + Acosta y Lara, F. and Wilchinski, M. (2022). [La batalla virtual por la memoria: un análisis de las memorias en disputa durante la Marcha del Silencio del 2020 en Twitter en Uruguay](https://revistas.ucm.es/index.php/TEKN/es/article/view/82642). *Teknokultura. Revista de Cultura Digital y Movimientos Sociales*.
-+ Moraes, J., Acosta y Lara, F., Martínez, G. and Wilchinski, M. (2021). ‟We are fantastic”: Are We?. En Moraes, J. y Pérez, V. (ed.) *[De la estabilidad al equilibrio inestable: elecciones y comportamiento electoral en Uruguay, 2019](http://isbn.bibna.gub.uy/catalogo.php?mode=detalle&nt=42860)*. Montevideo: UdelaR.
++ Moraes, J., Acosta y Lara, F., Martínez, G. and Wilchinski, M. (2021). [‟We are fantastic”: Are We?](http://isbn.bibna.gub.uy/catalogo.php?mode=detalle&nt=42860). En Moraes, J. y Pérez, V. (ed.) *De la estabilidad al equilibrio inestable: elecciones y comportamiento electoral en Uruguay, 2019*. Montevideo: UdelaR.
 
 <!--
 + Pose, N. and Wilchinski, M. (2021). [Pasado, presente y ¿futuro? El acuerdo de asociación Unión Europea – Mercosur y la cuestión ambiental](https://marcelowilchinski.github.io/MercosurUE/). En Martínez, I. (ed.) *La nueva agenda de la economía internacional y su impacto geoestratégico en la política internacional*. Ciudad de México: UNAM. In edition.
