@@ -29,7 +29,7 @@ title: Research
 + **State-Building during the Second Slavery: A Bargaining Framework**
 + **Phantom Variation: How Partially Time-Invariant Controls Tilt Two-Way Fixed Eﬀects Estimates and How to Fix It (with Sebastian M. Saiegh)**
 
-## Pre-Ph.D. Publications 
+## Pre-Ph.D. Publications (in Spanish)
 
 + Telias, D., and Wilchinski, M. (2023). [Las donaciones de China hacia América Latina y sus determinantes: Enseñanzas del caso uruguayo](https://revistasfcs.edu.uy/index.php/rucp/es/article/view/115). *Revista Uruguaya de Ciencia Política*.
 + Acosta y Lara, F. and Wilchinski, M. (2022). [La batalla virtual por la memoria: un análisis de las memorias en disputa durante la Marcha del Silencio del 2020 en Twitter en Uruguay](https://revistas.ucm.es/index.php/TEKN/es/article/view/82642). *Teknokultura. Revista de Cultura Digital y Movimientos Sociales*.
