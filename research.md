@@ -27,8 +27,7 @@ title: Research
 
 + **The Price of Sovereignty: Labor Control and the Size of Nations (Dissertation)**
 + **State-Building during the Second Slavery: A Bargaining Framework**
-+ **Phantom Variation: How Partially Time-Invariant Controls Tilt Two-Way Fixed Eﬀects Es-
-timates and How to Fix It (with Sebastian M. Saiegh)**
++ **Phantom Variation: How Partially Time-Invariant Controls Tilt Two-Way Fixed Eﬀects Estimates and How to Fix It (with Sebastian M. Saiegh)**
 
 ## Pre-Ph.D. Publications 
 
